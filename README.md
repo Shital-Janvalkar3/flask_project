@@ -2,7 +2,7 @@
 
 Insert sample data into the "users" table. 
 
-INSERT INTO user (name, email, role) VALUES ('Sona', 'sonal@gmail.com', 'tester');
+INSERT INTO user (name, email, role) VALUES ('Veda', 'veda@gmail.com', 'tester');
 
 
 Retrieve all users from the "users" table. 
