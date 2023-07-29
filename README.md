@@ -1,4 +1,4 @@
-# flask_project
+# SQL QUERIES
 
 Insert sample data into the "users" table. 
 
